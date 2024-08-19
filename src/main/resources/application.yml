@@ -4,7 +4,7 @@ spring:
     name: jwt-oauth2
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/authn
+    url: jdbc:postgresql://localhost:5432/authn?currentSchema=authn
     username: postgres
     password: root
     driver-class-name: org.postgresql.Driver

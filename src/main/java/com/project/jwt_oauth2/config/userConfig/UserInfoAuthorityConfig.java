@@ -1,4 +1,4 @@
-package com.project.jwt_oauth2.config;
+package com.project.jwt_oauth2.config.userConfig;
 
 import com.project.jwt_oauth2.entity.UserInfo;
 import lombok.RequiredArgsConstructor;

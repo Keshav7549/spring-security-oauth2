@@ -1,6 +1,5 @@
-package com.project.jwt_oauth2.config;
+package com.project.jwt_oauth2.config.userConfig;
 
-import com.project.jwt_oauth2.entity.UserInfo;
 import com.project.jwt_oauth2.repository.UserInfoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
